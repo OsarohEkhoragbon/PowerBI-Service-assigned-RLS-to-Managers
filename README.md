@@ -1,0 +1,1 @@
+# PowerBI-Service-to-assign-RLS-to-Managers
