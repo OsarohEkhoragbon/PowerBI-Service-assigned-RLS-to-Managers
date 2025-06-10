@@ -50,5 +50,5 @@ A full walkthrough of the dashboard and features is included here in the reposit
 ## 📬 Let’s Connect
 
 📧 Email: osarohekhoragbon@gmail.com  
-💼 LinkedIn: [linkedin.com/in/osarohekhoragbon](https://www.linkedin.com/in/osarohekhoragbon)  
+💼 LinkedIn: (https://www.linkedin.com/posts/osaroh-ekhoragbon_90daysofconsistency-osarohdataanalyticsjourneywith10alytics-activity-7320420150606766080-wc0C?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkcTOMBH04A-GBT9XWCy_GRBdwnuvWM7qY)  
 🌐 GitHub: [github.com/OsarohEkhoragbon](https://github.com/OsarohEkhoragbon)
